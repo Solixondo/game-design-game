@@ -1,8 +1,9 @@
 {
-    "name": "Game Design Game",
+    "name": "Game Design Game - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
     },
     "files": [
         "main.blocks",
