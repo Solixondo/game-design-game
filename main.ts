@@ -144,4 +144,4 @@ let Airplane = sprites.create(img`
     ........................
     `, SpriteKind.Player)
 scroller.scrollBackgroundWithSpeed(-50, -50)
-controller.player1.moveSprite(Airplane, 90, 90)
+controller.player1.moveSprite(Airplane, 80, 80)
